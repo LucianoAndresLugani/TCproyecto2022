@@ -1,10 +1,10 @@
 {
     "java.configuration.updateBuildConfiguration": "automatic",
-    // Generacion archivos ANTLR en el paquete Java
+    
     "antlr4.generation": {
         "mode": "external",
-        // "language": "Java",
-        "language": "Python3",
+        "language": "Java",
+        
         "listeners": true,
         "visitors": true
     },
